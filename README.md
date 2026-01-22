@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A student of BS Computer Science at SEECS, NUST <br>👯 I’m looking to collaborate on Computer Vision or NLP projects<br>🌱 I’m currently learning/interested in Linux OS<br>🌟 I code in Java, C++, python.<br>💬 Ask me about neural networks and applications
+🔭 A student of BS Computer Science at SEECS, NUST <br>👯 I’m looking to collaborate on Computer Vision or NLP projects<br>🌱 I’m currently learning/interested in Linux OS<br>🌟 I code in Java, C++, python<br>💬 Ask me about neural networks and applications
 
 
 ## 🌐 Socials:
