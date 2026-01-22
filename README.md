@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student of BS Computer Science at NUST, Pakistan <br>👯 I’m looking to collaborate on Computer Vision or NLP projects<br>🌱 I’m currently studying Deep Learning<br>🌟 I code in Java, C++, python.<br>💬 Ask me about neural networks and applications
+🔭 I’m currently a student of BS Computer Science at SEECS, NUST <br>👯 I’m looking to collaborate on Computer Vision or NLP projects<br>🌱 I’m currently studying Deep Learning<br>🌟 I code in Java, C++, python.<br>💬 Ask me about neural networks and applications
 
 
 ## 🌐 Socials:
